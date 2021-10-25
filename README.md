@@ -4,7 +4,7 @@
 
 ---
 Um novo aplicativo Flutter.
-## Em Portuquer
+## Em Portuquês
 ---
 ## Começando
 Este projeto é um ponto de partida para um aplicativo Flutter.
