@@ -2,7 +2,10 @@
 ## Aplicativo simples para calcular o preço do Bitcoin atual.  
 *Requer uso da internet.*
 
+![Screenshot_20191202-204324](https://user-images.githubusercontent.com/51889513/140755589-fe7d1ec9-0cc2-4838-ab53-c63f9f015416.jpg)
+
 ---
+
 Um novo aplicativo Flutter.
 ## Em Portuquês
 ---
